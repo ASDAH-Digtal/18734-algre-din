@@ -2,24 +2,24 @@
 # 18734
 ## Create a web page using a template (Level 1 Unit Standard)
 
-Name: 
+Name: Algre
 
-Date: 
+Date: 10/05/2021
 
-Homeroom: 
+Homeroom: 10VV
 
-Teacher: 
+Teacher: Mr. Malaitai
 
 # Instructions:
 
 ## Complete the following:
 1. What is the purpose of the web page?
 
-*INSERT ANSWER HERE*
+*The purpose of this web page is to *
 
 2. Who is the target audience of the web page?
 
-*INSERT ANSWER HERE*
+*The target audience of this web page are people who are interested in looking at colors.*
 
 3. What resources (e.g. images, videos etc) will you need to create your web page? 
 
