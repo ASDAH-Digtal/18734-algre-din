@@ -15,15 +15,15 @@ Teacher: Mr. Malaitai
 ## Complete the following:
 1. What is the purpose of the web page?
 
-*The purpose of this web page is to *
+*The purpose of this web page is to express my thoughts about the color Yellow.*
 
 2. Who is the target audience of the web page?
 
-*The target audience of this web page are people who are interested in looking at colors.*
+*The target audience of this web page are people who care about reading about my thoughts.*
 
 3. What resources (e.g. images, videos etc) will you need to create your web page? 
 
-*INSERT ANSWER HERE*
+*A youtube video that introduces Yellow, pictures of yellow things from unsplash, different fonts from google fonts to make my website look nice, knowledge on how to code.*
 
 4. Create a conceptual design of the web page and upload it to your repository.
 
