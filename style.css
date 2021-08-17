@@ -1,16 +1,16 @@
 /*
-Name: 
-Date: 
+Name: Algre Dinauto
+Date: 18/05/21
 */
 
-:root{
+:root {
     --main-bg-colour: #05445e;
     --sec-bg-colour: #189ab4;
     --main-colour: #d4f1f4;
     --sec-colour: #75e6da;
 }
 
-.container{ /*DO NOT REMOVE OR EDIT*/
+.container { /*DO NOT REMOVE OR EDIT*/
     display: grid;
     grid-template-columns:1fr 2fr 1fr;
     grid-template-rows: auto;
@@ -18,49 +18,115 @@ Date:
     "header header header"
     "side1 section1 section1"
     "section2 videoSection side2"
+    "references references references"
     "footer footer footer";
 }
 
-.container > div{ /*DO NOT REMOVE*/
-    padding: 10px;
+.container > div { /*DO NOT REMOVE*/
+    padding: 20px;
 }
 
-.header{ /*DO NOT REMOVE*/
-    grid-area: header;
-    background-color: var(--main-bg-colour);
+.header { /*DO NOT REMOVE*/
     color: var(--main-colour);
+    background-color: #141414;
+    grid-area: header;
+    line-height: 9px;
+    text-align: center;
 }
 
-.main{ /*DO NOT REMOVE*/
-    grid-area: main;
+.main { /*DO NOT REMOVE*/
     background-color: var(--sec-bg-colour);
     color: var(--main-colour);
+    grid-area: main;
 }
 
-.side1{ /*DO NOT REMOVE*/
+.side1 { /*DO NOT REMOVE*/
+    background-color: #F0A30A;
     grid-area: side1;
-    background-color: var(--main-colour);
 }
 
-.side2{ /*DO NOT REMOVE*/
+.side2 { /*DO NOT REMOVE*/
+    background-color: #F0A30A;
     grid-area: side2;
-    background-color: var(--main-colour);
 }
 
-.section1{ /*DO NOT REMOVE*/
+.section1 { /*DO NOT REMOVE*/
+    background-color: #F0A30A;
     grid-area: section1;
 }
 
-.section2{ /*DO NOT REMOVE*/
+.section2 { /*DO NOT REMOVE*/
+    background-color: #F0A30A;
     grid-area: section2;
 }
 
-.videoSection{ /*DO NOT REMOVE*/
+.videoSection { /*DO NOT REMOVE*/
+    background-color: #F0A30A;
     grid-area: videoSection;
+    text-align: center;
 }
 
-.footer{ /*DO NOT REMOVE*/
+.references {
+  background-color: #383838;
+  font-size: 12px;
+  grid-area: references;
+  line-height: 0;
+  text-align: center;
+}
+
+.footer { /*DO NOT REMOVE*/
+    background-color: #383838;
+    color: #E6E6E6;
+    font-size: 10px;
     grid-area: footer;
-    background-color: var(--main-bg-colour);
-    color: var(--main-colour);
+    text-align: center;
+}
+
+p,
+li {
+  font-family: 'Poppins', sans-serif;
+}
+
+li {
+  font-size: 14px;
+}
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 70px;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+  color: #E6E6E6;
+  font-family: 'Sacramento', cursive;
+  font-size:30px;
+}
+
+h4 {
+  color: #E6E6E6;
+  font-family: 'Poppins', sans-serif;
+}
+
+span {
+  color: #FFFF66;
+  text-shadow: 2px 2px 2px #000000;
+}
+
+a {
+  color: #E6E6E6;
+}
+
+a:hover,
+a:visited {
+  color: #F0A30A;
+}
+
+img {
+  border-color: #000000;
+  border-style: double;
+  border-width: 1em;
 }
